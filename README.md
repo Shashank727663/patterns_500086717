@@ -1,1 +1,1 @@
-# psychic-parakeet
+# patterns-project sem6
